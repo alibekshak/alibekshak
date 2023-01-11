@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m @alibekshak
+- 📫 How to reach me - alibekshakiro1@gmail.com
+- 🌱 I’m currently learning Python in ITCbootcamp
+- 👀 I’m interesting in Python and backend development
+
 
 <!--
 **alibekshak/alibekshak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
