@@ -37,7 +37,7 @@
  </td></tr></table>
  
  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/Alibek_Shakirov">
+  <a href="https://www.linkedin.com/in/алибек-шакиров">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="htpps://t.me/Alibek_Shakirov">
