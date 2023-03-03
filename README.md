@@ -25,5 +25,8 @@
 - 🌱 I’m currently learning Python in ITCbootcamp
 - 👀 I’m interesting in Python and backend development
 
+Codewars:
+[https://www.codewars.com/users/alibekshak](https://www.codewars.com/users/alibekshak/badges/large)
+
 
 
