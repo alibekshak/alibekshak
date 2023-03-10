@@ -24,7 +24,6 @@
 
 - 👋 Hi, I’m @alibekshak
 - 📫 How to reach me - alibekshakiro1@gmail.com
-- 🌱 I’m currently learning Python in ITCbootcamp
 - 👀 I’m interesting in Python and backend development
 
 
