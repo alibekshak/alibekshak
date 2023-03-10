@@ -24,7 +24,8 @@
 
 - 👋 Hi, I’m @alibekshak
 - 📫 How to reach me - alibekshakiro1@gmail.com
-- 👀 I’m interesting in Python and backend development
+- 👀 I’m interesting in Python, backend development, data analytics.
+- 🌱 I’m currently learning Data Analytics in ITCbootcamp
 
 
 
