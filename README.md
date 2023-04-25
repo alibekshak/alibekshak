@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/github-512.png" title="GitHub" width="40" height="40"/>&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" title="docker" width="40" height="40"/>&nbsp;
+
  
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alibekshakirov/">
