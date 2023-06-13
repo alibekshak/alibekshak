@@ -31,4 +31,5 @@
 
 - Codewars:
 
-![image](https://user-images.githubusercontent.com/120570958/226251945-59653963-59e2-49da-8440-ef62aae68458.png)
+![image](https://github.com/alibekshak/alibekshak/assets/120570958/82f94465-368f-4b17-9964-a4381d658308)
+
