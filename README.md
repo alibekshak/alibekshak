@@ -25,7 +25,6 @@
 - 👋 Hi, I’m @alibekshak
 - 📫 How to reach me - alibekshakiro1@gmail.com
 - 👀 I’m interesting in Python, SwiftUI, backend development, data analytics.
-- 🌱 I’m currently learning Data Analytics in ITCbootcamp
 - 🌱 Intership at nFactorial Incubator 2023 
 
 
