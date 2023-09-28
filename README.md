@@ -1,30 +1,15 @@
+<div id="badges" style="text-align: left; padding: 20px; border: 1px solid #ccc; background-color: #f0f0f0; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; align-items: center;">
+    <a href="https://www.linkedin.com/in/alibekshakirov/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 10px; width: 150px; height: 40px;">
+    </a>
+  </div>
+</div>
 
- 
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="django" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="pycharm" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
-<img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/github-512.png" title="GitHub" width="40" height="40"/>&nbsp;
-
- 
- <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alibekshakirov/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="htpps://t.me/Alibek Sh">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
- </a>
-  
- </div>
 
 - 👋 Hi, I’m @alibekshak
 - 📫 How to reach me - alibekshakiro1@gmail.com
-- 👀 I’m interesting in Python, Swift, backend development, data analytics.
+- 👀 I’m interesting in Swift, Python.
 
 
 - Codewars:
