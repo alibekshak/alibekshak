@@ -14,5 +14,6 @@
 
 - Codewars:
 
-![image](https://github.com/alibekshak/alibekshak/assets/120570958/82f94465-368f-4b17-9964-a4381d658308)
+[![codewars](https://www.codewars.com/users/alibekshak/badges/large)](https://www.codewars.com/users/alibekshak) 
+
 
