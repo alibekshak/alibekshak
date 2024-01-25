@@ -9,7 +9,6 @@
 
 - 👋 Hi, I’m @alibekshak
 - 📫 How to reach me - alibekshakiro1@gmail.com
-- 👀 I’m interesting in Swift, Python.
 
 
 - Codewars:
